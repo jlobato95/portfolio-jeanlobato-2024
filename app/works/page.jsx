@@ -23,34 +23,45 @@ import WorkSliderButtons from '@/components/WorkSliderButtons'
 const projects = [
   {
     num: '01',
-    category: 'frontend',
+    category: 'FlaBank - Landing Page e UI Design',
     title: 'project 1',
-    description:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus laudantium dolorum expedita.',
-    stack: [{ name: 'HTML 5' }, { name: 'CSS 3' }, { name: 'JavaScript' }],
+    description: 'Design e desenvolvimento de um banco fictício.',
+    stack: [
+      { name: 'HTML 5' },
+      { name: 'CSS 3' },
+      { name: 'JavaScript' },
+      { name: 'Sass' },
+      { name: 'GSAP' }
+    ],
     image: '/assets/work/thumb1.png',
-    live: '',
-    github: ''
+    live: 'https://jlobato95.github.io/flabank-project/',
+    github: 'https://github.com/jlobato95/flabank-project'
   },
   {
     num: '02',
-    category: 'fullstack',
+    category: 'PoliChat - fullstack',
     title: 'project 2',
     description:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus laudantium dolorum expedita.',
-    stack: [{ name: 'React.JS' }, { name: 'Sass' }, { name: 'Node.JS' }],
+      'Projeto PoliChat Desenvolvimento das principais funcionalidades de um chat, garantindo a melhor experiência possível para os usuários interagirem com o chat.',
+    stack: [
+      { name: 'HTML 5' },
+      { name: 'CSS 3' },
+      { name: 'JavaScript' },
+      { name: 'React.JS' },
+      { name: 'Node.JS' }
+    ],
     image: '/assets/work/thumb2.png',
-    live: '',
-    github: ''
+    live: 'https://main--polichat-app-jlobato95.netlify.app/',
+    github: 'https://github.com/jlobato95/polichat--app'
   },
   {
     num: '03',
-    category: 'frontend',
+    category: 'em breve',
     title: 'project 1',
     description:
       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus laudantium dolorum expedita.',
     stack: [{ name: 'Next.JS' }, { name: 'Tailwind.CSS' }],
-    image: '/assets/work/thumb3.png',
+    image: '',
     live: '',
     github: ''
   }
