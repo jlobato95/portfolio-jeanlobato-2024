@@ -61,14 +61,19 @@ const experience = {
     'Trabalhei em diversos projetos, aplicando minhas competências em desenvolvimento web, UX/UI design, motion e SEO para entregar resultados excepcionais e superar as expectativas dos clientes.',
   items: [
     {
-      company: 'Freelancer',
-      position: 'Desenvolvedor Front-End & UI/UX Designer',
-      duration: 'Abril/2022 - Atualmente'
+      company: 'Supremo Tribunal Federal',
+      position: 'Estágiario de Desenvolvimento',
+      duration: 'Janeiro/2025 - Atualmente'
     },
     {
       company: 'Associação Atados.',
       position: 'Desenvolvedor Front-End',
       duration: 'Janeiro/2024 - Maio/2024'
+    },
+    {
+      company: 'Freelancer',
+      position: 'Desenvolvedor Front-End & UI/UX Designer',
+      duration: 'Abril/2022 - Atualmente'
     }
   ]
 }
