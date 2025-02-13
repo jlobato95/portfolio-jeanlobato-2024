@@ -19,7 +19,7 @@ const Header = () => {
         {/* DESKTOP NAV | CALL ME BUTTON */}
         <div className="hidden xl:flex items-center gap-8">
           <Nav />
-          <Link href="https://encurtador.com.br/2caPd">
+          <Link href="https://wa.me/5561983184452?text=Oi%2C%20eu%20vim%20do%20seu%20site.%20Gostaria%20de%20saber%20mais%20sobre%20os%20servi%C3%A7os%20que%20voc%C3%AA%20oferece.%20Pode%20me%20ajudar%3F">
             <Button>Fale comigo</Button>
           </Link>
         </div>
